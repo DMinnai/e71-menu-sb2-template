@@ -1,0 +1,10 @@
+descriptorVersion: v5
+name: entando_sb2_navbar_example
+type: widget
+titles:
+  en: Vertical sb2 navbar example
+  it: Navbar verticale sb2
+group: free
+parentName: entando_sb2_vertical_navbar
+paramsDefaults:
+  navSpec: code(sb2_dashboard)+code(sb2_test)+code(sb2_test2).subtree(1)
