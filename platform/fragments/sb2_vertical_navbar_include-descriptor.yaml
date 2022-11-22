@@ -1,5 +1,4 @@
-descriptorVersion: v5
-code: entando_sb2_vertical_navbar_include
+code: sb2_vertical_navbar_include
 guiCode: |-
   <#assign wp=JspTaglibs["/aps-core"]>
   <#assign c=JspTaglibs["http://java.sun.com/jsp/jstl/core"]>

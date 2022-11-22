@@ -3,7 +3,7 @@
     "microfrontends": [],
     "svc": [],
     "name": "e71-menu-sb2-template",
-    "version": "0.0.4",
-    "description": "Sb2 Bootstrap Entando Menu template",
+    "version": "0.0.1",
+    "description": "Sb2 Entando Vertical Menu widget",
     "type": "bundle"
 }
